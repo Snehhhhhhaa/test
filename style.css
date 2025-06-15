@@ -1,0 +1,19 @@
+body{
+
+    background-color:aqua;
+    font-family:Arial, sans-serif;
+    color:blue;
+    padding:20px;
+}
+
+h1{
+
+    color:cadetblue;
+    text-align:center;
+}
+
+p{
+
+    font-size:18px;
+    text-align:center;
+}
