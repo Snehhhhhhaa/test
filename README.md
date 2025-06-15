@@ -12,4 +12,9 @@ This is a basic file which i created as part of learning Git.
 -base.html
 -style.css
 
+# How to run
+
+1.Clone or deownload the project
+2.Open base.html in your broswer
+
 Made with love by Snehhhhhhaa
