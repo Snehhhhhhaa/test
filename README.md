@@ -6,6 +6,7 @@ This is a basic file which i created as part of learning Git.
 
 -A simple html structure
 -External css file for basic styling
+-i created this a part of my git learning
 
 # Files include
 
